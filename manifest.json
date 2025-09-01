@@ -1,0 +1,21 @@
+{
+    "name": "HUB Card KPI",
+    "description": "Carte KPI personnalisée pour Looker Studio",
+    "devMode": true,
+    "components": [
+      {
+        "id": "hub-card-kpi",
+        "name": "HUB Card KPI",
+        "description": "KPI stylé avec HTML/CSS",
+        "resources": {
+          "js": ["index.js"],
+          "css": ["style.css"],
+          "html": ["index.html"]
+        },
+        "options": {
+          "state": {}
+        }
+      }
+    ]
+  }
+  
